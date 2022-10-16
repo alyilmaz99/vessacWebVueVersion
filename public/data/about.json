@@ -1,0 +1,80 @@
+{
+    "email": "contact@vessac.com",
+    "links": [{
+            "url": "#",
+            "title": "LinkedIn",
+            "icon": "LinkedInIcon"
+        },
+        {
+            "url": "#",
+            "title": "GitHub",
+            "icon": "GithubIcon"
+        }
+    ],
+    "cv": {
+        "file": "#",
+        "title": "indir",
+        "label": "indir"
+    },
+    "description": [
+        "Vessac Software 2022 yılında kurulmuş genç ve dinamik bir yazılım şirketidir. Yurtdışında şuanda 4 ülkeden (İngiltere, Almanya, Ukrayna ve Azerbaycan) müşterilerle, yurtiçinde de birçok kurum ve kişilerle çalışmaktayız. ",
+        "Oyun , web, app."
+    ],
+    "subtitles": ["*********"],
+    "skills": [
+        ["Web siteleri", "Cross-platform uygulamalar", "Oyunlar"],
+        ["3D Tasarımlar", "UX/UI"],
+        [
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "React",
+            "Vue",
+            "Node",
+            "Canvas",
+            "SVG",
+            "WebGL",
+            "Unity",
+            "Unreal",
+            "Flutter",
+            "Kotlin"
+        ],
+        ["Figma", "Photoshop", "Illustrator"]
+    ],
+    "experiences": [{
+            "position": "Vessac Game Studio",
+            "company": "Türkiye",
+            "time": "* current"
+        },
+        {
+            "position": "StoryHub App",
+            "company": "Vessac",
+            "time": "2022- "
+        },
+        {
+            "position": "Robocam",
+            "company": "robocam",
+            "time": "2022"
+        },
+        {
+            "position": "Otto AR",
+            "company": "Otto Tiles",
+            "time": "2022"
+        }
+
+    ],
+    "languages": {
+        "fluent": [
+            ["en-US", "English"],
+            ["pt-BR", "Português"]
+        ],
+        "intermediate": [
+            ["es-ES", "Español"]
+        ],
+        "basic": [
+            ["de-DE", "Deutsch"],
+            ["ca-ES", "Català"]
+        ]
+    },
+    "busy": ["GOT fanı", "Anime sevdalısı", "Müzisyen Ruhlu", "Araştırmacı"]
+}
